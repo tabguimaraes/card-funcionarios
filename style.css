@@ -15,7 +15,7 @@ body {
   height: 100dvh;
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 2.5dvw;
   align-items: center;
   background-color: #f4f4f4;
   overflow: hidden;
@@ -33,6 +33,7 @@ body {
   height: 300px;
   border-radius: 12px;
   box-shadow: 5px 5px 16px lightgray;
+  cursor: pointer;
   transition: 200ms;
 }
 
